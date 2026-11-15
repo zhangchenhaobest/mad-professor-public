@@ -1,3 +1,29 @@
+# mad-professor-public
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+An AI companion for reading papers.
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+读论文时的 AI 伴侣。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 # 暴躁的教授读论文（mad-professor）
 一个Python应用程序，特色是具有暴躁个性的AI教授，让学术论文阅读更加高效有趣。
 
